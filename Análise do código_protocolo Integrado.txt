@@ -1,0 +1,23 @@
+Análise do código Protocolo Integrado
+
+A:
+	A palavra "Interessados" aparecerá na tela no terceiro maior tamanho de cabeçalho existente em html.
+
+
+B:
+	Será exibido um link para mais detalhes do documento pertencente ao nome de pessoa procurado.
+		A variável "value" recebe o endereço para essa infomação detalhada, enquanto recebe o nome "protocolo" para diferenciá-lo dos 
+		outros elementos exibidos na tela.
+
+
+C:
+	Uma lista do histórico do documento é exibida, isto é,todas os locais, as operações e as datas em que o documento foi processado.
+
+
+D:
+	É exibido um painel com mais detalhes do documento.
+
+
+E:
+	Um botão de confirmação.
+		Significa que, ao ser clicado, o mesmo confirma a operação de realizar o acompanhamento do documento.
